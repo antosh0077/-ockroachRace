@@ -2,9 +2,9 @@ F:\For C#\Git\MIC\СockroachRace\bin\Debug\СockroachRace.exe.config
 F:\For C#\Git\MIC\СockroachRace\bin\Debug\СockroachRace.exe
 F:\For C#\Git\MIC\СockroachRace\bin\Debug\СockroachRace.pdb
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.csprojAssemblyReference.cache
-F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.Form1.resources
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.Properties.Resources.resources
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.csproj.GenerateResource.cache
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.csproj.CoreCompileInputs.cache
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.exe
 F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.pdb
+F:\For C#\Git\MIC\СockroachRace\obj\Debug\СockroachRace.Race.resources

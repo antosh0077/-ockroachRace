@@ -1,7 +1,7 @@
 ﻿
 namespace СockroachRace
 {
-    partial class Form1
+    partial class Race
     {
         /// <summary>
         /// Required designer variable.
@@ -43,9 +43,9 @@ namespace СockroachRace
             // 
             // startBtn
             // 
-            this.startBtn.Location = new System.Drawing.Point(12, 823);
+            this.startBtn.Location = new System.Drawing.Point(21, 751);
             this.startBtn.Name = "startBtn";
-            this.startBtn.Size = new System.Drawing.Size(75, 23);
+            this.startBtn.Size = new System.Drawing.Size(117, 42);
             this.startBtn.TabIndex = 3;
             this.startBtn.Text = "START";
             this.startBtn.UseVisualStyleBackColor = true;
@@ -64,7 +64,6 @@ namespace СockroachRace
             // cockroach3PB
             // 
             this.cockroach3PB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(195)))), ((int)(((byte)(195)))));
-            
             this.cockroach3PB.Image = global::СockroachRace.Properties.Resources._100x83_cockoch_;
             this.cockroach3PB.Location = new System.Drawing.Point(87, 571);
             this.cockroach3PB.Name = "cockroach3PB";
@@ -101,19 +100,19 @@ namespace СockroachRace
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
-            // Form1
+            // Race
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1626, 861);
+            this.ClientSize = new System.Drawing.Size(1626, 820);
+            this.Controls.Add(this.startBtn);
             this.Controls.Add(this.winnerLbl);
             this.Controls.Add(this.cockroach3PB);
             this.Controls.Add(this.cockroach1PB);
             this.Controls.Add(this.cockroach2PB);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.startBtn);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Race";
+            this.Text = "Race";
             ((System.ComponentModel.ISupportInitialize)(this.cockroach3PB)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cockroach1PB)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cockroach2PB)).EndInit();

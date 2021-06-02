@@ -12,11 +12,11 @@ using System.Windows.Forms;
 
 namespace СockroachRace
 {
-    public partial class Form1 : Form
+    public partial class Race : Form
     {
         //ThreadManager threadManager;
         Random rnd;
-        public Form1()
+        public Race()
         {
             InitializeComponent();            
             rnd = new Random();
